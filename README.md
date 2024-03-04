@@ -12,4 +12,4 @@ Repositori untuk memenuhi tugas petermuan 2 Arkatama
 
 ## Screenshots
 
-![App Screenshot](assets\images\ghpages.jpg)
+![App Screenshot](assets/images/ghpages.jpg)
